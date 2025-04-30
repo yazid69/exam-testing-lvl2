@@ -6,7 +6,7 @@ Objectifs des tests d'intégration
 - Vérifier que les flux de travail complets fonctionnent correctement (de la création d'un produit jusqu'à la facturation d'une commande)
 - S'assurer que les données circulent correctement entre les services
 - Détecter les éventuelles incohérences ou bugs dans les interactions
-
+ok
 ## Tests à réaliser
 Créez un fichier restaurant-system.integration.test.ts qui testera les scénarios suivants :
 
